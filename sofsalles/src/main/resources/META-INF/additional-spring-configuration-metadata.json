@@ -1,0 +1,152 @@
+{"properties": [
+  {
+    "name": "mail.smtp.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.host'"
+  },
+  {
+    "name": "mail.smtp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.port'"
+  },
+  {
+    "name": "mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "INITIAL_CONTEXT_FACTORY",
+    "type": "java.lang.String",
+    "description": "A description for 'INITIAL_CONTEXT_FACTORY'"
+  },
+  {
+    "name": "PROVIDER_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'PROVIDER_URL'"
+  },
+  {
+    "name": "SECURITY_PRINCIPAL",
+    "type": "java.lang.String",
+    "description": "A description for 'SECURITY_PRINCIPAL'"
+  },
+  {
+    "name": "SECURITY_CREDENTIALS",
+    "type": "java.lang.String",
+    "description": "A description for 'SECURITY_CREDENTIALS'"
+  },
+  {
+    "name": "domainBase",
+    "type": "java.lang.String",
+    "description": "A description for 'domainBase'"
+  },
+  {
+    "name": "domainBase",
+    "type": "java.lang.String",
+    "description": "A description for 'domainBase'"
+  },
+  {
+    "name": "Context.INITIAL_CONTEXT_FACTORY",
+    "type": "java.lang.String",
+    "description": "A description for 'Context.INITIAL_CONTEXT_FACTORY'"
+  },
+  {
+    "name": "initial_ctx",
+    "type": "java.lang.String",
+    "description": "A description for 'initial_ctx'"
+  },
+  {
+    "name": "url",
+    "type": "java.lang.String",
+    "description": "A description for 'url'"
+  },
+  {
+    "name": "seccred",
+    "type": "java.lang.String",
+    "description": "A description for 'seccred'"
+  },
+  {
+    "name": "domainBase",
+    "type": "java.lang.String",
+    "description": "A description for 'domainBase'"
+  },
+  {
+    "name": "domainBase",
+    "type": "java.lang.String",
+    "description": "A description for 'domainBase'"
+  },
+  {
+    "name": "PROVIDER_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'PROVIDER_URL'"
+  },
+  {
+    "name": "INITIAL_CONTEXT_FACTORY",
+    "type": "java.lang.String",
+    "description": "A description for 'INITIAL_CONTEXT_FACTORY'"
+  },
+  {
+    "name": "PROVIDER_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'PROVIDER_URL'"
+  },
+  {
+    "name": "prinSec",
+    "type": "java.lang.String",
+    "description": "A description for 'prinSec'"
+  },
+  {
+    "name": "domainBase",
+    "type": "java.lang.String",
+    "description": "A description for 'domainBase'"
+  },
+  {
+    "name": "provider_url",
+    "type": "java.lang.String",
+    "description": "A description for 'provider_url'"
+  },
+  {
+    "name": "security_principal",
+    "type": "java.lang.String",
+    "description": "A description for 'security_principal'"
+  },
+  {
+    "name": "security_credentials",
+    "type": "java.lang.String",
+    "description": "A description for 'security_credentials'"
+  },
+  {
+    "name": "domain_base",
+    "type": "java.lang.String",
+    "description": "A description for 'domain_base'"
+  },
+  {
+    "name": "default.to.initial_ctx",
+    "type": "java.lang.String",
+    "description": "A description for 'default.to.initial_ctx'"
+  },
+  {
+    "name": "default.initial_ctx",
+    "type": "java.lang.String",
+    "description": "A description for 'default.initial_ctx'"
+  },
+  {
+    "name": "Context.INITIAL_CONTEXT_FACTORY",
+    "type": "java.lang.String",
+    "description": "A description for 'Context.INITIAL_CONTEXT_FACTORY'"
+  },
+  {
+    "name": "mail.smtp.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.host'"
+  },
+  {
+    "name": "mail.smtp.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.host'"
+  },
+  {
+    "name": "initial_ctx",
+    "type": "java.lang.String",
+    "description": "A description for 'initial_ctx'"
+  }
+]}
